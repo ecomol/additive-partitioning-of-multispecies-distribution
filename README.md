@@ -3,4 +3,4 @@ Additive partitioning of multi-species distributional aggregation for sequential
 
 This repository contains 1) calculation and simulation R code for conducting additive partitioning of multi-species distributional aggregtaion pattern; 2) the original amphibian community dataset collected in central-south Vietnam using line transects, a typical form of sequential biodiversity sampling. The amphibian dataset was used in the following paper for empirical dataset of the additive partitioning of multi-species distributional aggregation pattern:
 
-Na Wu...Youhua Chen* (2024) Additive partitioning of multispecies distributional aggregation. Under Revision.
+Wu et al. (2024) Additive partitioning of multispecies distributional aggregation. Under Revision.
